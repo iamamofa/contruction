@@ -66,7 +66,7 @@ section {
 }
 
 .btn:hover {
-  background: var(--yellow);
+  background: rgb(100, 149, 237);
   color: var(--black);
 }
 
@@ -717,7 +717,7 @@ section {
   line-height: 7rem;
   border-radius: 50%;
   margin-bottom: 2rem;
-  background: var(--yellow);
+  background: rgb(100, 149, 237);
   color: var(--black);
 }
 
